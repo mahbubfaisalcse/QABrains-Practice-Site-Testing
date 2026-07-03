@@ -268,7 +268,7 @@ I am passionate about delivering high-quality software through structured testin
 
 # 📬 Contact
 
-**Email:** your-email@example.com
+**Email:** mahbubfaisal.cse@gmail.com
 
 **LinkedIn:** https://www.linkedin.com/in/mahbubfaisal/
 
