@@ -83,6 +83,9 @@ Modules Tested:
 ```text
 QABrains-Practice-Site-Testing
 │
+├── Test Plan
+│   └── Test_Plan_QA_Brains_Practice_Site.md
+│
 ├── Bug Report
 │   └── QA-Brains Bugs.xlsx
 │
@@ -110,7 +113,7 @@ QABrains-Practice-Site-Testing
 
 ## ✅ Test Cases
 
-The repository contains **390+ detailed manual test cases** covering:
+The repository contains 154 detailed manual test cases** covering:
 
 - Positive Testing
 - Negative Testing
