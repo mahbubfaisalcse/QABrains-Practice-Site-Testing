@@ -37,7 +37,6 @@ user interface meet the expected quality standards.
 -   Registration
 -   Forgot Password
 -   Form Submission
--   Drag & Drop
 -   Product Listing
 -   Product Details
 -   Shopping Cart
@@ -89,7 +88,7 @@ user interface meet the expected quality standards.
   OS              Windows 11
   Browsers        Chrome, Firefox, Edge
   Testing Type    Manual
-  Documentation   Microsoft Excel / Markdown
+  Documentation   Microsoft Excel
   Repository      GitHub
 
 # 7. Entry Criteria
@@ -104,27 +103,16 @@ user interface meet the expected quality standards.
 -   All planned test cases executed
 -   No Critical or High severity defects remain open
 -   Test Summary Report completed
--   Stakeholder approval obtained
 
 # 9. Test Deliverables
 
 -   Test Plan
 -   Test Scenarios
 -   Test Cases
--   Requirement Traceability Matrix (RTM)
 -   Bug Report
 -   Test Execution Report
 -   Test Summary Report
 -   Screenshots
-
-# 10. Roles & Responsibilities
-
-  Role            Responsibility
-  --------------- -------------------------------------
-  QA Engineer     Test planning, execution, reporting
-  Developer       Defect fixing
-  Reviewer        Review QA artifacts
-  Project Owner   Final approval
 
 # 11. Test Data
 
@@ -137,15 +125,6 @@ Severity Levels: - Critical - High - Medium - Low
 
 Bug Lifecycle: `New → Assigned → In Progress → Fixed → Retest → Closed`
 
-# 13. Risks & Mitigation
-
-  Risk                      Mitigation
-  ------------------------- ------------------------------
-  Requirement changes       Update test cases
-  Environment instability   Re-test after stabilization
-  Time constraints          Prioritize high-risk modules
-  Browser inconsistencies   Cross-browser testing
-
 # 14. Test Schedule
 
   Activity               Status
@@ -153,9 +132,9 @@ Bug Lifecycle: `New → Assigned → In Progress → Fixed → Retest → Closed
   Test Planning          Completed
   Test Scenario Design   Completed
   Test Case Writing      Completed
-  Test Execution         In Progress
-  Bug Reporting          Ongoing
-  Regression Testing     Planned
+  Test Execution         Completed
+  Bug Reporting          Completed
+  Regression Testing     Pending
   Test Closure           Pending
 
 # 15. Test Metrics
@@ -171,7 +150,7 @@ Bug Lifecycle: `New → Assigned → In Progress → Fixed → Retest → Closed
 
 # 16. Approval
 
-  Name               Role          Signature
-  ------------------ ------------- ----------------------
-  Mahbubul Islam     QA Engineer   \_\_\_\_\_\_\_\_\_\_
-  Project Reviewer   Reviewer      \_\_\_\_\_\_\_\_\_\_
+  Name               Role          
+  --------------     ------------------ 
+  Mahbubul Islam     Junior QA Engineer   
+   
